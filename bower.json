@@ -1,0 +1,20 @@
+{
+  "name": "book",
+  "description": "Small description for book goes here",
+  "main": "",
+  "authors": [
+    "KELVINMUNENE <karvinmitchar@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
